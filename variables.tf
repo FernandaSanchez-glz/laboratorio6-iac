@@ -13,5 +13,5 @@ variable "imagen_nginx" {
 variable "puerto_externo" {
   description = "Puerto externo para acceder al servidor"
   type        = number
-  default     = 8082
+  default     = 8083
 }
